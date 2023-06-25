@@ -1,0 +1,20 @@
+.list_container {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(20, 179, 231);
+    width: 500px;
+    height: 100vh;
+    outline: solid 1px black;
+    margin: 100px 0px 100px 0 !important;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 3px solid green;
+
+}
